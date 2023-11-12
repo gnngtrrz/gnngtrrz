@@ -3,9 +3,9 @@
 
 ### Socials:
 
-<a href="https://www.facebook.com/gnngtrrz/"><img src="https://img.shields.io/badge/FACEBOOK-black?style=for-the-badge&logo=facebook&logoColor=white&labelColor=blue"></a>
-<a href="https://instagram.com/gnn.gtz"><img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white&labelColor=hotpink"></a>
-<a href="https://www.linkedin.com/in/gianne-paul-gutierrez-429326290/"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=navy"></a>
+<a href="https://www.facebook.com/gnngtrrz/" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-black?style=for-the-badge&logo=facebook&logoColor=white&labelColor=blue"></a>
+<a href="https://instagram.com/gnn.gtz" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-black?style=for-the-badge&logo=instagram&logoColor=white&labelColor=hotpink"></a>
+<a href="https://www.linkedin.com/in/gianne-paul-gutierrez-429326290/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=navy"></a>
 
 
 ### How to reach me:
