@@ -2,7 +2,7 @@
 
 ### Socials:
 
-<a href="https://www.facebook.com/gnngtrrz/">https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white&labelColor=blue</a>
+<a href="https://www.facebook.com/gnngtrrz/"><img src="https://img.shields.io/badge/FACEBOOK-blue?style=for-the-badge&logo=facebook&logoColor=white&labelColor=blue"></a>
 <a href="https://instagram.com/gnn.gtz"><img src="https://img.shields.io/badge/instagram-hotpink?style=for-the-badge&logo=instagram&logoColor=white&labelColor=hotpink"></a>
 <a href="https://www.linkedin.com/in/gianne-paul-gutierrez-429326290/"><img src="https://img.shields.io/badge/linkedin-navy?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=navy"></a> <a href="https://gnngtrrz.github.io/web-portfolio/"><img src="https://img.shields.io/badge/My%20Portfolio-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white"></a>
 
